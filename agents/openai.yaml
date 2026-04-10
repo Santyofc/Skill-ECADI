@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill ECADI"
+  short_description: "Responde cualquier mensaje de leads ECADI con inteligencia"
+  default_prompt: "Use $skill-ecadi para analizar cualquier mensaje y responder con claridad, seguridad y CTA contextual."

@@ -1,1 +1,0 @@
-Contenido oficial del Instituto ECADI:\n\nVer detalles completos en el documento adjunto del repo.

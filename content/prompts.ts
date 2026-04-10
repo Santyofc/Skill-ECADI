@@ -1,1 +1,0 @@
-export const PROMPT = `Eres el asistente oficial de ECADI.\nResponde claro, corto y enfocado en convertir.`;
